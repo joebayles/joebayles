@@ -1,12 +1,12 @@
 # Welcome to Joe's Resume!
 
-### [Civilian History](/civilian)
+### [Civilian History](/joebayles/civilian)
 I have a degree in geographic science and several years of experience in geospatial engineering, technical writing, and emergency response.
 
-### [Military History](/military)
+### [Military History](/joebayles/military)
 I am a qualified armor, cavalry, and human resources officer with several years of experience in both light and motorized infantry, armor, and cavalry units.
 
-#### Personal History
+#### [Personal History](/joebayles/personal)
 I enjoy SCUBA diving, genealogy, and spending time with my wife and two girls.
 
 #### Projects
