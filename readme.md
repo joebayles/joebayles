@@ -1,9 +1,9 @@
 # Welcome to Joe's Resume!
 
-### Civilian History
+### [Civilian History](/civilian)
 I have a degree in geographic science and several years of experience in geospatial engineering, technical writing, and emergency response.
 
-### Military History
+### [Military History](/military)
 I am a qualified armor, cavalry, and human resources officer with several years of experience in both light and motorized infantry, armor, and cavalry units.
 
 #### Personal History
